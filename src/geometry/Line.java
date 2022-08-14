@@ -1,5 +1,3 @@
-// ID: 205694441
-
 package geometry;
 import java.util.List;
 

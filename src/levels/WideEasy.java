@@ -1,5 +1,3 @@
-// ID: 205694441
-
 package levels;
 import geometry.Point;
 import geometry.Rectangle;

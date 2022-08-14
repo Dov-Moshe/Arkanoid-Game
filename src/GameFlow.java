@@ -1,5 +1,3 @@
-// ID: 205694441
-
 import animation.AnimationRunner;
 import animation.GameLevel;
 import animation.EndGame;

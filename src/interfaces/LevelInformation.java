@@ -1,5 +1,3 @@
-// ID: 205694441
-
 package interfaces;
 import geometry.Velocity;
 import object.Block;

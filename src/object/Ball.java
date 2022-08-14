@@ -1,5 +1,3 @@
-// ID: 205694441
-
 package object;
 import animation.GameLevel;
 import geometry.Point;

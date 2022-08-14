@@ -1,5 +1,3 @@
-// ID: 205694441
-
 package animation;
 import interfaces.Animation;
 import other.SpriteCollection;

@@ -1,5 +1,3 @@
-// ID: 205694441
-
 package other;
 import interfaces.Sprite;
 import biuoop.DrawSurface;

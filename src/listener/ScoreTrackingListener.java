@@ -1,5 +1,3 @@
-// ID: 205694441
-
 package listener;
 import other.Counter;
 import interfaces.HitListener;

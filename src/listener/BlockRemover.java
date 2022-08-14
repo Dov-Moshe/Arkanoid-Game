@@ -1,5 +1,3 @@
-// ID: 205694441
-
 package listener;
 import animation.GameLevel;
 import other.Counter;

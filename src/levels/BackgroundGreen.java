@@ -1,5 +1,3 @@
-// ID: 205694441
-
 package levels;
 import biuoop.GUI;
 import biuoop.DrawSurface;
